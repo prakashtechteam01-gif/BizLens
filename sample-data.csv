@@ -1,0 +1,34 @@
+transaction_id,date,product_id,product_name,category,region,quantity,returned_units,unit_price,unit_cost
+DEMO-001,2026-01-04,PEN101,Octane Ball Pen,Pens,Lucknow,1200,18,10,6
+DEMO-002,2026-01-12,NB201,Classmate Notebook,Notebooks,Lucknow,420,6,55,37
+DEMO-003,2026-01-20,ART301,Sketch Pens Set,Art Supplies,Kanpur,260,4,85,54
+DEMO-004,2026-02-03,PEN102,Gel Pen Blue,Pens,Kanpur,980,12,12,7
+DEMO-005,2026-02-10,NB202,Long Notebook,Notebooks,Lucknow,510,8,48,31
+DEMO-006,2026-02-18,ART302,Wax Crayons,Art Supplies,Varanasi,310,5,42,25
+DEMO-007,2026-03-02,PEN101,Octane Ball Pen,Pens,Lucknow,1450,15,10,6
+DEMO-008,2026-03-15,PEN103,Premium Marker,Pens,Varanasi,380,9,35,21
+DEMO-009,2026-03-23,NB201,Classmate Notebook,Notebooks,Kanpur,470,7,55,37
+DEMO-010,2026-04-05,ART301,Sketch Pens Set,Art Supplies,Lucknow,340,5,85,54
+DEMO-011,2026-04-11,PEN102,Gel Pen Blue,Pens,Lucknow,1170,22,12,7
+DEMO-012,2026-04-25,NB202,Long Notebook,Notebooks,Varanasi,590,7,48,31
+DEMO-013,2026-05-03,PEN101,Octane Ball Pen,Pens,Kanpur,1620,20,10,6
+DEMO-014,2026-05-14,ART302,Wax Crayons,Art Supplies,Lucknow,390,6,42,25
+DEMO-015,2026-05-22,NB201,Classmate Notebook,Notebooks,Varanasi,530,10,55,37
+DEMO-016,2026-06-02,PEN103,Premium Marker,Pens,Lucknow,450,8,35,21
+DEMO-017,2026-06-17,PEN102,Gel Pen Blue,Pens,Kanpur,1320,14,12,7
+DEMO-018,2026-06-26,NB202,Long Notebook,Notebooks,Lucknow,620,9,48,31
+DEMO-019,2026-07-04,ART301,Sketch Pens Set,Art Supplies,Kanpur,410,8,85,54
+DEMO-020,2026-07-18,PEN101,Octane Ball Pen,Pens,Varanasi,1810,24,10,6
+DEMO-021,2026-07-24,NB201,Classmate Notebook,Notebooks,Lucknow,650,11,55,37
+DEMO-022,2026-08-05,PEN102,Gel Pen Blue,Pens,Lucknow,1480,19,12,7
+DEMO-023,2026-08-14,ART302,Wax Crayons,Art Supplies,Kanpur,430,7,42,25
+DEMO-024,2026-08-26,PEN103,Premium Marker,Pens,Lucknow,510,11,35,21
+DEMO-025,2026-09-07,NB202,Long Notebook,Notebooks,Kanpur,710,12,48,31
+DEMO-026,2026-09-18,PEN101,Octane Ball Pen,Pens,Lucknow,1950,21,10,6
+DEMO-027,2026-09-25,ART301,Sketch Pens Set,Art Supplies,Varanasi,470,6,85,54
+DEMO-028,2026-10-04,PEN102,Gel Pen Blue,Pens,Varanasi,1530,26,12,7
+DEMO-029,2026-10-16,NB201,Classmate Notebook,Notebooks,Kanpur,740,14,55,37
+DEMO-030,2026-10-27,PEN103,Premium Marker,Pens,Lucknow,570,15,35,21
+DEMO-031,2026-11-03,PEN101,Octane Ball Pen,Pens,Lucknow,2100,24,10,6
+DEMO-032,2026-11-07,ART302,Wax Crayons,Art Supplies,Varanasi,490,9,42,25
+DEMO-033,2026-11-12,NB202,Long Notebook,Notebooks,Lucknow,790,15,48,31
